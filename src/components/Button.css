@@ -1,0 +1,13 @@
+
+.darkbtn{
+    background-color:#dadce0;
+}
+.primary{
+    background-color: #0072c5;
+}
+
+.btn{
+    width: 75px;
+    text-align: center;
+    border-color: black;
+} 

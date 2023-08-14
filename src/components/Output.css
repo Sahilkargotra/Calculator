@@ -1,0 +1,10 @@
+/* .form-floating{
+    width:90px;
+}*/
+#Obox input{
+    margin-top: 10px;
+    /* margin-left:115px ; */
+    height:100px;
+    width:368px;
+   border : 2px solid black;
+} 
